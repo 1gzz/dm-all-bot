@@ -1,4 +1,4 @@
-# DM ALL BOT
+# DM All Bot
 
 A simple Discord bot to send direct messages (DMs) to all members in a server.
 
